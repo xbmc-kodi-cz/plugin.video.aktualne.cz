@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: cs\n"
+"Language: en\n"
 
 msgctxt "#30001"
 msgid "Recent Videos"
@@ -28,6 +28,6 @@ msgctxt "#30005"
 msgid "No stream found"
 msgstr ""
 
-msgctxt "#30006"
-msgid "Spotlight"
+msgctxt "#30007"
+msgid "Content could not be loaded"
 msgstr ""
